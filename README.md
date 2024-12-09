@@ -1,3 +1,3 @@
 # sw-lab
  Software Lab <br>
-Author - Marzuka Zannat Chowdhury
+Author - Marzuka Zannat
